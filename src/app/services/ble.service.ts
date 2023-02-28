@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { BLE } from '@ionic-native/ble';
 import { Buffer } from 'buffer';
 
 import { Ble
